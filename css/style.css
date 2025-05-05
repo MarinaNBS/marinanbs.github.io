@@ -1,18 +1,39 @@
 body {
-  background-color: black;
+  background-color: #e9a319;
 }
 .content_page {
   background-color: #f5efe7;
   border-radius: 20px;
+  width: 1015px;
+  margin-left: 495px;
+  height: 685px;
+  margin-top: 68px;
 }
+
 .text {
   margin-left: 50px;
   margin-top: 90px;
 }
 .img img {
-  margin-right: 500px;
+  margin-right: 76px;
+  margin-top: 72px;
 }
 
+.modal-place {
+  margin-left: 180px;
+  margin-top: 95px;
+}
+.btn-modal {
+  background-color: #e9a319;
+}
+
+.btn-contact-me {
+  background-color: #fad59a;
+}
+
+.box-top {
+  margin-top: 231px;
+}
 .card {
   width: 300px;
   height: 320px;
