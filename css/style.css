@@ -1,5 +1,5 @@
 body {
-  background-color: #e9a319;
+  background-color: #004030;
 }
 .content_page {
   background-color: #f5efe7;
@@ -11,12 +11,20 @@ body {
 }
 
 .text {
-  margin-left: 50px;
-  margin-top: 90px;
+  margin-left: 170px;
+  margin-top: 134px;
 }
+
+.text2 {
+  margin-left: 62px;
+  margin-top: 73px;
+}
+
 .img img {
-  margin-right: 76px;
-  margin-top: 72px;
+  width: 229px;
+  border-radius: 56%;
+  margin-top: 65px;
+  margin-right: 180px;
 }
 
 .modal-place {
@@ -25,11 +33,11 @@ body {
 }
 
 .btn-modal {
-  background-color: #e9a319;
+  background-color: #005f47;
 }
 
 .btn-contact-me {
-  background-color: #fad59a;
+  background-color: #005f47;
 }
 
 .box-top {
@@ -39,7 +47,7 @@ body {
   width: 300px;
   height: 320px;
   border: none;
-  background-color: white;
+  background-color: #f5efe7;
   text-align: left;
   margin-left: 57px;
   border-radius: 50px;
